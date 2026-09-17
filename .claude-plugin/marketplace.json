@@ -5,8 +5,7 @@
     {
       "name": "qa-kit",
       "source": "./",
-      "description": "Summarize branch changes and get a severity-grouped 
-code review before opening a PR."
+      "description": "Summarize branch changes and get a severity-grouped code review before opening a PR."
     }
   ]
 }
